@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+1 - my first repository
+2 - this is first comment of mine
